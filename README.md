@@ -43,10 +43,16 @@ http://localhost:3000
 The goal of SmileSync AI is to simplify dental clinic appointment management using automation, AI assistance, and a user-friendly interface.
 
 
-Author
-Manasi Navale
-Om Navale
-github.com/omnavle
+👥 Contributors
+
+  Om Navale – Backend Developer
+  GitHub: https://github.com/om-navale
+
+  Manasi Navale – Frontend Developer 
+  GitHub: https://github.com/manasi-navale2107
+
+
+
 
 
 
